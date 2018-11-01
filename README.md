@@ -27,10 +27,11 @@
 
 ## Лабораторная 2
 
-[IDEF0](http://127.0.0.1:50220/idef0/index.html?id=3)
-![IDEF0](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/model2.png)
+![Рисунок контекста](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/model21.png)
 
+![Рисунок диаграммы PDC](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/model22.png)
 
+![Рисунок диаграммы DFD](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/model23.png)
 
 
 ## Лабораторная 3
