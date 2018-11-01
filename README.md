@@ -27,6 +27,12 @@
 
 ## Лабораторная 2
 
+[IDEF0](http://127.0.0.1:50220/idef0/index.html?id=3)
+![IDEF0](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/model2.png)
+
+
+
+
 ## Лабораторная 3
 
 ## Лабораторная 4
