@@ -14,7 +14,8 @@
 ![Посмотреть IDEF0](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/model.png)
 [Просмотреть IDEF0](http://127.0.0.1:50220/idef0/index.html?id=3)
 
-Ссылки на доп.материалы
+![Диаграмма классов](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/POynJlim64Vd-XIVEe748Kgv01kpbLWqgXCZEn43Gg8j4cD640C39t3X7pMY95pXvnlnELwG_eC7Fx_lsLwuMjgwARLmwwAwaLQMb6df7Ds9sL9cwsjhcYg_CDfOkbeLjHApSslDRI9BpGgBnkRA_aNt8bNcUCM8CJpW7teCy64RTtEIZYxv3i8B1cOTFjdfUOtuWCSmkIs53SFD97p3Kz.png)  
+[Диаграмма классов](http://www.plantuml.com/plantuml/png/POynJlim64Vd-XIVEe748Kgv01kpbLWqgXCZEn43Gg8j4cD640C39t3X7pMY95pXvnlnELwG_eC7Fx_lsLwuMjgwARLmwwAwaLQMb6df7Ds9sL9cwsjhcYg_CDfOkbeLjHApSslDRI9BpGgBnkRA_aNt8bNcUCM8CJpW7teCy64RTtEIZYxv3i8B1cOTFjdfUOtuWCSmkIs53SFD97p3KzZXXntFpf7Hm8Ujm5juZ54sZg555xQ44Vkm2q_9GKSdU8uzdllYJ8p_vvmHtZdIOP_UaEg40tmSme7LVXe_vU-jYbnHLjXCAx5GLTwKlm00)  
 
 ## Лабораторная 2
 
