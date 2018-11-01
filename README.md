@@ -19,8 +19,11 @@
 
 [Код диаграммы классов](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/text1)
 
+![Диаграмма прецендентов](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/fP51Ji9058RNp2bUkj85YGSmXkAQX9thIJj2G-cOwH0NOY9WufAjSQ4UeI0aZT9wXJStyiyKbBrfsixyyxt_Vttjv5OQEncd8XybsOqqSamoijhGdMXrPJGQ63t9uakTGheQ9bQ9LcYClcsKRWe4e3QnCiVI_P7V95UHpDM_7LDrRSbgCibWQ2bEZ8fieZFHzDi_8vbJmEzSy8fhD-UAI_xa.png)
 [Диаграмма прецендентов](http://www.plantuml.com/plantuml/png/fP51Ji9058RNp2bUkj85YGSmXkAQX9thIJj2G-cOwH0NOY9WufAjSQ4UeI0aZT9wXJStyiyKbBrfsixyyxt_Vttjv5OQEncd8XybsOqqSamoijhGdMXrPJGQ63t9uakTGheQ9bQ9LcYClcsKRWe4e3QnCiVI_P7V95UHpDM_7LDrRSbgCibWQ2bEZ8fieZFHzDi_8vbJmEzSy8fhD-UAI_xaCjW3lJtmvXwuvWyy2zxXgh3Rafj1sF86xpclkGuEjatH2w0Qn8PB51HWiFjrRfXdhg1llNNfGzQ8g3o_H034cGTsN91RyBTlOSrVa2eSBWDn65NOEBwwHv-wEp1e5BOhjt1FVqLzQhVf93mLkB6adi0ipgTOzKKFmlG2touwAelndty0)
 
+
+[Код диаграммы прецендентов](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/text2)
 
 ## Лабораторная 2
 
