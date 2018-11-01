@@ -11,11 +11,16 @@
 
 ### Координатор оформляет обучение заказчика по работе со станком на основе заявки на обучение с помощью интегрированнной системы управления.
  
-![Посмотреть IDEF0](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/model.png)
+![IDEF0](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/model.png)
 [Просмотреть IDEF0](http://127.0.0.1:50220/idef0/index.html?id=3)
 
 ![Диаграмма классов](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/POynJlim64Vd-XIVEe748Kgv01kpbLWqgXCZEn43Gg8j4cD640C39t3X7pMY95pXvnlnELwG_eC7Fx_lsLwuMjgwARLmwwAwaLQMb6df7Ds9sL9cwsjhcYg_CDfOkbeLjHApSslDRI9BpGgBnkRA_aNt8bNcUCM8CJpW7teCy64RTtEIZYxv3i8B1cOTFjdfUOtuWCSmkIs53SFD97p3Kz.png)  
 [Диаграмма классов](http://www.plantuml.com/plantuml/png/POynJlim64Vd-XIVEe748Kgv01kpbLWqgXCZEn43Gg8j4cD640C39t3X7pMY95pXvnlnELwG_eC7Fx_lsLwuMjgwARLmwwAwaLQMb6df7Ds9sL9cwsjhcYg_CDfOkbeLjHApSslDRI9BpGgBnkRA_aNt8bNcUCM8CJpW7teCy64RTtEIZYxv3i8B1cOTFjdfUOtuWCSmkIs53SFD97p3KzZXXntFpf7Hm8Ujm5juZ54sZg555xQ44Vkm2q_9GKSdU8uzdllYJ8p_vvmHtZdIOP_UaEg40tmSme7LVXe_vU-jYbnHLjXCAx5GLTwKlm00)  
+
+[Код диаграммы классов](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/text1)
+
+[Диаграмма прецендентов](http://www.plantuml.com/plantuml/png/fP51Ji9058RNp2bUkj85YGSmXkAQX9thIJj2G-cOwH0NOY9WufAjSQ4UeI0aZT9wXJStyiyKbBrfsixyyxt_Vttjv5OQEncd8XybsOqqSamoijhGdMXrPJGQ63t9uakTGheQ9bQ9LcYClcsKRWe4e3QnCiVI_P7V95UHpDM_7LDrRSbgCibWQ2bEZ8fieZFHzDi_8vbJmEzSy8fhD-UAI_xaCjW3lJtmvXwuvWyy2zxXgh3Rafj1sF86xpclkGuEjatH2w0Qn8PB51HWiFjrRfXdhg1llNNfGzQ8g3o_H034cGTsN91RyBTlOSrVa2eSBWDn65NOEBwwHv-wEp1e5BOhjt1FVqLzQhVf93mLkB6adi0ipgTOzKKFmlG2touwAelndty0)
+
 
 ## Лабораторная 2
 
