@@ -1,0 +1,13 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Координатор" as P {
+ Интегрированная система управления
+Оформляет обучение (Заявка на обучение, Требования заказчика )
+}
+hide circle
+@endum
+@enduml
