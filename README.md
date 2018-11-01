@@ -26,15 +26,24 @@
 [Код диаграммы прецендентов](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/text2)
 
 ## Лабораторная 2
+### Рисунок контекста
 
 ![Рисунок контекста](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/model21.png)
 
+### Рисунок диаграммы PDC
+
 ![Рисунок диаграммы PDC](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/model22.png)
+
+### Рисунок диаграммы DFD
 
 ![Рисунок диаграммы DFD](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/model23.png)
 
 
 ## Лабораторная 3
+
+### Рисунок диаграммы DFD
+
+![Рисунок диаграммы DFD](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/model23.png)
 
 ## Лабораторная 4
 
