@@ -62,6 +62,21 @@
 
 ## Лабораторная 5
 
+Определение конфигурации технических средств (рабочие станции, серверы, другое оборудование) - Рабочие станции (ПК). Определение конфигурации программных средств (одноуровневые, многоуровневые, встроенные, распределенные) - Многоуровневые. Определение допустимых видов хранилищ и их размещения - База данных 1С.
+
+![A12](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/04_A12.png)
+
+![A13](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/05_A13.png)
+
+![A21](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/07_A21.png)
+
+![A22](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/08_A22.png)
+
+![A23](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/09_A23.png)
+
+![A32](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/11_A32.png)
+
+
 ## Лабораторная 6
 
 ## Курсовой проект
