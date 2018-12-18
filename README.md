@@ -48,10 +48,17 @@
 Формальное определение цели моделирования (вопросы к модели) – Визуализировать процесс оформления обучения по работе со станком.
 Формальное определение темы курсового проекта (наименование информационной системы) – Автоматизированная система управления деятельностью отдела обучения технологического центра.
 
-![rsf](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/Модель.rsf)
+.[rsf](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/Модель.rsf)
 
 ![A0](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/01_A0.png)
 
+![A02](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/02_A0.png)
+
+![A1](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/03_A1.png)
+
+![A2](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/06_A2.png)
+
+![A3](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/10_A3.png)
 
 ## Лабораторная 5
 
