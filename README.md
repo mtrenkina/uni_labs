@@ -50,7 +50,7 @@
 
 ![rsf](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/Модель.rsf)
 
-.[A0](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/01_A0.png)
+![A0](https://github.com/mtrenkina/mtrenkina.github.io/blob/master/01_A0.png)
 
 
 ## Лабораторная 5
