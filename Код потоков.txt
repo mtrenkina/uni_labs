@@ -1,0 +1,42 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Потоки"
+
+class Input as "Входной\nпоток"
+class Output as "Выходной\nпоток"
+class Control as "Поток\nуправления"
+
+class INInfo as "Информационный"
+class OUTInfo as "Информационный"
+class CTRLInfo as "Информационный"
+
+class IN1 as "Заявка на\nобучение"
+
+class OUT1 as "Законченное\nобучение" 
+
+class CTRL1 as "Активы\nпроцессов\nорганизации"
+class CTRL2 as "Требования\nзаказчика"
+
+Entity <|-- Input 
+Entity <|-- Output 
+Entity <|-- Control 
+
+Input <|-- INInfo 
+
+Output <|-- OUTInfo 
+
+Control <|-- CTRLInfo 
+
+INInfo <|-- IN1
+OUTInfo <|-- OUT1 
+CTRLInfo <|-- CTRL1 
+CTRLInfo <|-- CTRL2 
+
+hide members
+hide circle
+hide methods
+@enduml

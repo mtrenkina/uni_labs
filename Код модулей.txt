@@ -1,0 +1,32 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Модули"
+
+class Window as "Экранная форма"
+
+class WindowA121 as "Форма\nвывода\nинформации\nо проводимых\nкурсах"
+
+class WindowA131 as "Форма\nсогласования\nкурса"
+
+class WindowA211 as "Форма\nотбора\nподходящего\nспециалиста"
+
+class WindowA221 as "Форма\nоформления\nнаправления\nспециалиста"
+
+class WindowA321 as "Форма\nполучения\nобратной\nсвязи"
+
+Entity <|-- Window 
+
+Window <|-- WindowA121 
+Window <|-- WindowA131 
+Window <|-- WindowA211 
+Window <|-- WindowA221 
+Window <|-- WindowA321 
+
+hide members
+hide circle
+hide methods
+@enduml
